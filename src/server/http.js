@@ -1,4 +1,4 @@
-// Varun Deep Singh
+
 import http from 'node:http';
 
 const PORT = 3000;

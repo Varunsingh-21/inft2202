@@ -1,4 +1,4 @@
-// Varun deep Singh
+
 import express from 'express';
 
 import { RequestLogger } from './utils/logging.js';
