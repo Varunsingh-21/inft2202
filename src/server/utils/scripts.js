@@ -7,5 +7,4 @@ export async function reasJson(filename){
     return fileJsonReal;
 }
 
-// const json = await readJson('./products.json');
-// console.log(json)
+
