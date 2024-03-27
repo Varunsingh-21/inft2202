@@ -21,6 +21,11 @@ app.use(RequestLogger);
 
 app.get('/about', AboutController);
 app.get('/products', ProductsController);
+app.get('/animals',FindAnimalController);
+app.get('/animals/:name',FindAnimalController);
+
+
+
 
 app.listen(PORT, () => {
     console.log(`Server is running on http://localhost:${PORT}`);
