@@ -1,0 +1,220 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Varun\\source\\repos\\Our_Hearts_game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A3FCF0-8836-4E1D-9455-F0158306A024}|Our_Hearts_game\\Our_Hearts_game.csproj|c:\\users\\varun\\source\\repos\\our_hearts_game\\our_hearts_game\\trick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6A3FCF0-8836-4E1D-9455-F0158306A024}|Our_Hearts_game\\Our_Hearts_game.csproj|solutionrelative:our_hearts_game\\trick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A3FCF0-8836-4E1D-9455-F0158306A024}|Our_Hearts_game\\Our_Hearts_game.csproj|C:\\Users\\Varun\\source\\repos\\Our_Hearts_game\\our_hearts_game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6A3FCF0-8836-4E1D-9455-F0158306A024}|Our_Hearts_game\\Our_Hearts_game.csproj|solutionrelative:our_hearts_game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A3FCF0-8836-4E1D-9455-F0158306A024}|Our_Hearts_game\\Our_Hearts_game.csproj|C:\\Users\\Varun\\source\\repos\\Our_Hearts_game\\our_hearts_game\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6A3FCF0-8836-4E1D-9455-F0158306A024}|Our_Hearts_game\\Our_Hearts_game.csproj|solutionrelative:our_hearts_game\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A3FCF0-8836-4E1D-9455-F0158306A024}|Our_Hearts_game\\Our_Hearts_game.csproj|c:\\users\\varun\\source\\repos\\our_hearts_game\\our_hearts_game\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6A3FCF0-8836-4E1D-9455-F0158306A024}|Our_Hearts_game\\Our_Hearts_game.csproj|solutionrelative:our_hearts_game\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A3FCF0-8836-4E1D-9455-F0158306A024}|Our_Hearts_game\\Our_Hearts_game.csproj|c:\\users\\varun\\source\\repos\\our_hearts_game\\our_hearts_game\\aiplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6A3FCF0-8836-4E1D-9455-F0158306A024}|Our_Hearts_game\\Our_Hearts_game.csproj|solutionrelative:our_hearts_game\\aiplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A3FCF0-8836-4E1D-9455-F0158306A024}|Our_Hearts_game\\Our_Hearts_game.csproj|C:\\Users\\Varun\\source\\repos\\Our_Hearts_game\\our_hearts_game\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6A3FCF0-8836-4E1D-9455-F0158306A024}|Our_Hearts_game\\Our_Hearts_game.csproj|solutionrelative:our_hearts_game\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A3FCF0-8836-4E1D-9455-F0158306A024}|Our_Hearts_game\\Our_Hearts_game.csproj|C:\\Users\\Varun\\source\\repos\\Our_Hearts_game\\our_hearts_game\\setupmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C6A3FCF0-8836-4E1D-9455-F0158306A024}|Our_Hearts_game\\Our_Hearts_game.csproj|solutionrelative:our_hearts_game\\setupmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A3FCF0-8836-4E1D-9455-F0158306A024}|Our_Hearts_game\\Our_Hearts_game.csproj|C:\\Users\\Varun\\source\\repos\\Our_Hearts_game\\our_hearts_game\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C6A3FCF0-8836-4E1D-9455-F0158306A024}|Our_Hearts_game\\Our_Hearts_game.csproj|solutionrelative:our_hearts_game\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A3FCF0-8836-4E1D-9455-F0158306A024}|Our_Hearts_game\\Our_Hearts_game.csproj|C:\\Users\\Varun\\source\\repos\\Our_Hearts_game\\our_hearts_game\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6A3FCF0-8836-4E1D-9455-F0158306A024}|Our_Hearts_game\\Our_Hearts_game.csproj|solutionrelative:our_hearts_game\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A3FCF0-8836-4E1D-9455-F0158306A024}|Our_Hearts_game\\Our_Hearts_game.csproj|C:\\Users\\Varun\\source\\repos\\Our_Hearts_game\\our_hearts_game\\insform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6A3FCF0-8836-4E1D-9455-F0158306A024}|Our_Hearts_game\\Our_Hearts_game.csproj|solutionrelative:our_hearts_game\\insform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A3FCF0-8836-4E1D-9455-F0158306A024}|Our_Hearts_game\\Our_Hearts_game.csproj|c:\\users\\varun\\source\\repos\\our_hearts_game\\our_hearts_game\\setupmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6A3FCF0-8836-4E1D-9455-F0158306A024}|Our_Hearts_game\\Our_Hearts_game.csproj|solutionrelative:our_hearts_game\\setupmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A3FCF0-8836-4E1D-9455-F0158306A024}|Our_Hearts_game\\Our_Hearts_game.csproj|C:\\Users\\Varun\\source\\repos\\Our_Hearts_game\\our_hearts_game\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{C6A3FCF0-8836-4E1D-9455-F0158306A024}|Our_Hearts_game\\Our_Hearts_game.csproj|solutionrelative:our_hearts_game\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AiPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\Varun\\source\\repos\\Our_Hearts_game\\Our_Hearts_game\\AiPlayer.cs",
+              "RelativeDocumentMoniker": "Our_Hearts_game\\AiPlayer.cs",
+              "ToolTip": "C:\\Users\\Varun\\source\\repos\\Our_Hearts_game\\Our_Hearts_game\\AiPlayer.cs",
+              "RelativeToolTip": "Our_Hearts_game\\AiPlayer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T08:50:57.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Trick.cs",
+              "DocumentMoniker": "C:\\Users\\Varun\\source\\repos\\Our_Hearts_game\\Our_Hearts_game\\Trick.cs",
+              "RelativeDocumentMoniker": "Our_Hearts_game\\Trick.cs",
+              "ToolTip": "C:\\Users\\Varun\\source\\repos\\Our_Hearts_game\\Our_Hearts_game\\Trick.cs",
+              "RelativeToolTip": "Our_Hearts_game\\Trick.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T08:49:51.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SetupMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Varun\\source\\repos\\Our_Hearts_game\\Our_Hearts_game\\SetupMenu.cs",
+              "RelativeDocumentMoniker": "Our_Hearts_game\\SetupMenu.cs",
+              "ToolTip": "C:\\Users\\Varun\\source\\repos\\Our_Hearts_game\\Our_Hearts_game\\SetupMenu.cs [Design]",
+              "RelativeToolTip": "Our_Hearts_game\\SetupMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T23:29:13.382Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Deck.cs",
+              "DocumentMoniker": "C:\\Users\\Varun\\source\\repos\\Our_Hearts_game\\Our_Hearts_game\\Deck.cs",
+              "RelativeDocumentMoniker": "Our_Hearts_game\\Deck.cs",
+              "ToolTip": "C:\\Users\\Varun\\source\\repos\\Our_Hearts_game\\Our_Hearts_game\\Deck.cs",
+              "RelativeToolTip": "Our_Hearts_game\\Deck.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAYwDYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T06:50:09.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\Varun\\source\\repos\\Our_Hearts_game\\Our_Hearts_game\\Card.cs",
+              "RelativeDocumentMoniker": "Our_Hearts_game\\Card.cs",
+              "ToolTip": "C:\\Users\\Varun\\source\\repos\\Our_Hearts_game\\Our_Hearts_game\\Card.cs",
+              "RelativeToolTip": "Our_Hearts_game\\Card.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAQwBcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T22:52:21.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Varun\\source\\repos\\Our_Hearts_game\\Our_Hearts_game\\Player.cs",
+              "RelativeDocumentMoniker": "Our_Hearts_game\\Player.cs",
+              "ToolTip": "C:\\Users\\Varun\\source\\repos\\Our_Hearts_game\\Our_Hearts_game\\Player.cs",
+              "RelativeToolTip": "Our_Hearts_game\\Player.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAAADQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T22:36:18.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Varun\\source\\repos\\Our_Hearts_game\\Our_Hearts_game\\Form1.cs",
+              "RelativeDocumentMoniker": "Our_Hearts_game\\Form1.cs",
+              "ToolTip": "C:\\Users\\Varun\\source\\repos\\Our_Hearts_game\\Our_Hearts_game\\Form1.cs [Design]",
+              "RelativeToolTip": "Our_Hearts_game\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T20:21:46.961Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Varun\\source\\repos\\Our_Hearts_game\\Our_Hearts_game\\Program.cs",
+              "RelativeDocumentMoniker": "Our_Hearts_game\\Program.cs",
+              "ToolTip": "C:\\Users\\Varun\\source\\repos\\Our_Hearts_game\\Our_Hearts_game\\Program.cs",
+              "RelativeToolTip": "Our_Hearts_game\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T20:21:56.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InsForm.cs",
+              "DocumentMoniker": "C:\\Users\\Varun\\source\\repos\\Our_Hearts_game\\Our_Hearts_game\\InsForm.cs",
+              "RelativeDocumentMoniker": "Our_Hearts_game\\InsForm.cs",
+              "ToolTip": "C:\\Users\\Varun\\source\\repos\\Our_Hearts_game\\Our_Hearts_game\\InsForm.cs",
+              "RelativeToolTip": "Our_Hearts_game\\InsForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T21:57:34.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Varun\\source\\repos\\Our_Hearts_game\\Our_Hearts_game\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Our_Hearts_game\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Varun\\source\\repos\\Our_Hearts_game\\Our_Hearts_game\\Form1.Designer.cs",
+              "RelativeToolTip": "Our_Hearts_game\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T21:52:07.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SetupMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Varun\\source\\repos\\Our_Hearts_game\\Our_Hearts_game\\SetupMenu.cs",
+              "RelativeDocumentMoniker": "Our_Hearts_game\\SetupMenu.cs",
+              "ToolTip": "C:\\Users\\Varun\\source\\repos\\Our_Hearts_game\\Our_Hearts_game\\SetupMenu.cs",
+              "RelativeToolTip": "Our_Hearts_game\\SetupMenu.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAywFkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T06:33:35.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\Varun\\source\\repos\\Our_Hearts_game\\Our_Hearts_game\\Form1.resx",
+              "RelativeDocumentMoniker": "Our_Hearts_game\\Form1.resx",
+              "ToolTip": "C:\\Users\\Varun\\source\\repos\\Our_Hearts_game\\Our_Hearts_game\\Form1.resx",
+              "RelativeToolTip": "Our_Hearts_game\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-04-05T23:27:19.741Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+C:\Users\Varun\source\repos\Our_Hearts_game\Our_Hearts_game\bin\Debug\Our_Hearts_game.exe.config
+C:\Users\Varun\source\repos\Our_Hearts_game\Our_Hearts_game\bin\Debug\Our_Hearts_game.exe
+C:\Users\Varun\source\repos\Our_Hearts_game\Our_Hearts_game\bin\Debug\Our_Hearts_game.pdb
+C:\Users\Varun\source\repos\Our_Hearts_game\Our_Hearts_game\obj\Debug\Our_Hearts_game.csproj.AssemblyReference.cache
+C:\Users\Varun\source\repos\Our_Hearts_game\Our_Hearts_game\obj\Debug\Our_Hearts_game.Form1.resources
+C:\Users\Varun\source\repos\Our_Hearts_game\Our_Hearts_game\obj\Debug\Our_Hearts_game.Properties.Resources.resources
+C:\Users\Varun\source\repos\Our_Hearts_game\Our_Hearts_game\obj\Debug\Our_Hearts_game.csproj.GenerateResource.cache
+C:\Users\Varun\source\repos\Our_Hearts_game\Our_Hearts_game\obj\Debug\Our_Hearts_game.csproj.CoreCompileInputs.cache
+C:\Users\Varun\source\repos\Our_Hearts_game\Our_Hearts_game\obj\Debug\Our_Hearts_game.exe
+C:\Users\Varun\source\repos\Our_Hearts_game\Our_Hearts_game\obj\Debug\Our_Hearts_game.pdb
+C:\Users\Varun\source\repos\Our_Hearts_game\Our_Hearts_game\obj\Debug\Our_Hearts_game.register.resources
+C:\Users\Varun\source\repos\Our_Hearts_game\Our_Hearts_game\obj\Debug\Our_Hearts_game.SetupMenu.resources
